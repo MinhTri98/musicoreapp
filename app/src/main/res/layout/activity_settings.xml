@@ -62,14 +62,15 @@
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/play"/>
+                        android:src="@drawable/playbtn"/>
+
                     <TextView
                         android:layout_width="170dp"
                         android:layout_height="wrap_content"
-                        android:text=" Trình phát nhạc và MV"
-                        android:textSize="16sp"
                         android:fontFamily="sans-serif-light"
-                        android:textColor="@color/gray2"/>
+                        android:text=" Trình phát nhạc và MV"
+                        android:textColor="@color/gray2"
+                        android:textSize="16sp" />
                 </LinearLayout>
             </LinearLayout>
         </RelativeLayout>
@@ -90,23 +91,26 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
+
                 <LinearLayout
                     android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
                     android:layout_marginTop="30dp"
-                    android:layout_marginBottom="20dp"
-                    android:layout_height="wrap_content">
+                    android:layout_marginBottom="20dp">
+
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/ic_language"/>
+                        android:src="@drawable/ic_language" />
+
                     <TextView
                         android:layout_width="100dp"
                         android:layout_height="wrap_content"
                         android:layout_marginLeft="5dp"
-                        android:text="Ngôn ngữ"
-                        android:textSize="16sp"
                         android:fontFamily="sans-serif-light"
-                        android:textColor="@color/gray2"/>
+                        android:text="Ngôn ngữ"
+                        android:textColor="@color/gray2"
+                        android:textSize="16sp" />
                 </LinearLayout>
             </LinearLayout>
         </RelativeLayout>
@@ -127,22 +131,26 @@
                 android:layout_width="wrap_content"
                 android:layout_height="wrap_content"
                 android:orientation="vertical">
+
                 <LinearLayout
                     android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+
                     android:layout_marginTop="30dp"
-                    android:layout_marginBottom="20dp"
-                    android:layout_height="wrap_content">
+                    android:layout_marginBottom="20dp">
+
                     <ImageView
                         android:layout_width="25dp"
                         android:layout_height="25dp"
-                        android:src="@drawable/ic_ver"/>
+                        android:src="@drawable/ic_ver" />
+
                     <TextView
                         android:layout_width="150dp"
                         android:layout_height="wrap_content"
-                        android:text=" Phiên Bản: 19.03.02"
-                        android:textSize="16sp"
                         android:fontFamily="sans-serif-light"
-                        android:textColor="@color/gray2"/>
+                        android:text=" Phiên Bản: 19.03.02"
+                        android:textColor="@color/gray2"
+                        android:textSize="16sp" />
                 </LinearLayout>
             </LinearLayout>
         </RelativeLayout>

@@ -22,7 +22,7 @@
                 android:layout_width="120dp"
                 android:layout_height="120dp"
                 android:layout_centerInParent="true"
-                android:src="@drawable/aivy"
+                android:src="@drawable/pf"
                 app:civ_border_color="@color/white"
                 app:civ_border_width="3dp"
                 tools:layout_editor_absoluteX="45dp"

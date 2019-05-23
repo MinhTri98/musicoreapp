@@ -69,6 +69,15 @@
             android:textSize="15dp"
             android:textColor="@color/gray2"
             android:text="4:45" />
+
+        <ImageButton
+            android:id="@+id/lvplay"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="370dp"
+            android:layout_marginTop="33dp"
+            android:background="@null"
+            android:src="@drawable/lvplay" />
     </RelativeLayout>
     <RelativeLayout
         android:layout_width="match_parent"
@@ -130,6 +139,14 @@
             android:textSize="15dp"
             android:textColor="@color/gray2"
             android:text="5:40" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="370dp"
+            android:layout_marginTop="33dp"
+            android:background="@null"
+            android:src="@drawable/lvplay" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -192,6 +209,14 @@
             android:textSize="15dp"
             android:textColor="@color/gray2"
             android:text="4:30" />
+
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="370dp"
+            android:layout_marginTop="33dp"
+            android:background="@null"
+            android:src="@drawable/lvplay" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -254,6 +279,13 @@
             android:textSize="15dp"
             android:textColor="@color/gray2"
             android:text="3:43" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="370dp"
+            android:layout_marginTop="33dp"
+            android:background="@null"
+            android:src="@drawable/lvplay" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -317,6 +349,13 @@
             android:textSize="15dp"
             android:textColor="@color/gray2"
             android:text="4:20" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="370dp"
+            android:layout_marginTop="33dp"
+            android:background="@null"
+            android:src="@drawable/lvplay" />
     </RelativeLayout>
 
     <RelativeLayout
@@ -379,6 +418,13 @@
             android:textSize="15dp"
             android:textColor="@color/gray2"
             android:text="4:15" />
+        <ImageButton
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="370dp"
+            android:layout_marginTop="33dp"
+            android:background="@null"
+            android:src="@drawable/lvplay" />
     </RelativeLayout>
 
 </LinearLayout>
